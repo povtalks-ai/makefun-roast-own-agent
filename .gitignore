@@ -1,0 +1,10 @@
+# Keypair / wallet files — never commit these
+*.json
+!freshness.json
+!owner.json
+wallet*.json
+*keypair*
+*.pem
+*.key
+__pycache__/
+*.pyc
